@@ -66,8 +66,9 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="25dp"
                     android:layout_marginTop="10dp"
+                    android:inputType="number"
                     android:hint="0"
-                    android:textColorHint="@color/white"
+                    android:textColorHint="#320707"
                     android:textSize="30sp">
 
                 </EditText>
@@ -80,7 +81,7 @@
                     android:layout_marginTop="10dp"
                     android:text="KG"
                     android:textSize="20sp"
-                    android:textColor="#E9EDEF">
+                    android:textColor="#022004">
 
                 </TextView>
 
@@ -139,7 +140,8 @@
                     android:layout_marginLeft="25dp"
                     android:layout_marginTop="10dp"
                     android:hint="0"
-                    android:textColorHint="@color/white"
+                    android:inputType="number"
+                    android:textColorHint="#470D21"
                     android:textSize="30sp">
 
                 </EditText>
@@ -152,7 +154,7 @@
                     android:layout_marginTop="10dp"
                     android:text="CM"
                     android:textSize="20sp"
-                    android:textColor="#E9EEF3">
+                    android:textColor="#022004">
 
                 </TextView>
 
